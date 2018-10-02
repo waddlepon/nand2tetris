@@ -1,0 +1,9 @@
+D=M-D
+@TRUE
+D;JEQ
+D=0
+@ENDTEST
+0;JMP
+(TRUE)
+D=-1
+(ENDTEST)
